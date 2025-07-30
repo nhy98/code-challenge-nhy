@@ -16,7 +16,7 @@ This project is an ExpressJS backend server implemented in TypeScript that provi
 1. **Clone the repository:**
    ```sh
    git clone <repository-url>
-   cd express-backend-server
+   cd resource-api
    ```
 
 2. **Install dependencies:**
